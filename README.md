@@ -1,63 +1,63 @@
 # Toctoc Properties Listings Dataset Sample
 
-<h2>A sample dataset of 1,003 records</h2>
+<h2>Ein Beispiel-Datensatz mit 1.003 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Toctoc-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Toctoc Properties Listings Dataset Sample** includes **1,003 records** and was extracted using the **Bright Data API**.
+Dieses **Toctoc Properties Listings Dataset Sample** umfasst **1.003 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `Imagen` | URLs of property images depicting various views and features. |
-| `No_de_imagenes` | Total number of images available for the property listing. |
-| `Descripcion` | Detailed description of the property including features and amenities. |
-| `Precio` | Price of the property listed either in local currency or units. |
-| `Currency` | Currency type in which the property's price is listed, such as UF or CLP. |
-| `Ubicacion` | Geographical coordinates (latitude and longitude) of the property. |
-| `Habitaciones` | Number of bedrooms available in the property. |
-| `Banos` | Number of bathrooms available in the property. |
-| `Dimension_propiedad` | Size of the property in square meters. |
-| `Dimension_terreno` | Size of the land on which the property is located, in square meters. |
-| `Titulo` | Title or headline of the property listing. |
-| `Phone1` | Primary contact phone number for inquiries. |
-| `Phone2` | Secondary contact phone number for inquiries. |
-| `Email` | Email address for contacting the property seller or agent. |
-| `Seller` | Name of the seller or real estate agent listing the property. |
-| `Tipo_de_vendedor` | Type of seller, whether individual or agency. |
-| `Type` | Type of property, such as house, apartment, etc. |
-| `Nueva_usada` | Indicates if the property is new or previously owned. |
-| `Venta_Arriendo` | Specifies if the property is for sale or rent. |
-| `Region` | Geographical region where the property is located. |
-| `Comuna_Ciudad` | Specific city or commune of the property's location. |
-| `Year` | Year of construction or last renovation of the property. |
-| `Parqueaderos` | Number of parking spaces available with the property. |
-| `ID` | Unique identifier for the property listing. |
-| `url` | Web link to the online property listing. |
-| `seller_id` | Unique identifier for the seller or agent. |
-| `whatsapp_number` | WhatsApp contact number for direct communication. |
+| `Imagen` | URLs von Immobilienbildern, die verschiedene Ansichten und Merkmale zeigen. |
+| `No_de_imagenes` | Gesamtzahl der für das Immobilieninserat verfügbaren Bilder. |
+| `Descripcion` | Detaillierte Beschreibung der Immobilie einschließlich Merkmale und Ausstattungen. |
+| `Precio` | Preis der Immobilie, angegeben entweder in lokaler Währung oder Einheiten. |
+| `Currency` | Währungstyp, in dem der Preis der Immobilie angegeben ist, z. B. UF oder CLP. |
+| `Ubicacion` | Geografische Koordinaten (Breiten- und Längengrad) der Immobilie. |
+| `Habitaciones` | Anzahl der in der Immobilie verfügbaren Schlafzimmer. |
+| `Banos` | Anzahl der in der Immobilie verfügbaren Badezimmer. |
+| `Dimension_propiedad` | Größe der Immobilie in Quadratmetern. |
+| `Dimension_terreno` | Größe des Grundstücks, auf dem sich die Immobilie befindet, in Quadratmetern. |
+| `Titulo` | Titel oder Überschrift des Immobilieninserats. |
+| `Phone1` | Primäre Kontakttelefonnummer für Anfragen. |
+| `Phone2` | Sekundäre Kontakttelefonnummer für Anfragen. |
+| `Email` | E-Mail-Adresse zur Kontaktaufnahme mit dem Verkäufer oder Makler der Immobilie. |
+| `Seller` | Name des Verkäufers oder Immobilienmaklers, der die Immobilie anbietet. |
+| `Tipo_de_vendedor` | Art des Verkäufers, ob privat oder Agentur. |
+| `Type` | Art der Immobilie, z. B. Haus, Wohnung usw. |
+| `Nueva_usada` | Gibt an, ob die Immobilie neu oder gebraucht ist. |
+| `Venta_Arriendo` | Gibt an, ob die Immobilie zum Verkauf oder zur Miete angeboten wird. |
+| `Region` | Geografische Region, in der sich die Immobilie befindet. |
+| `Comuna_Ciudad` | Konkrete Stadt oder Gemeinde des Immobilienstandorts. |
+| `Year` | Baujahr oder Jahr der letzten Renovierung der Immobilie. |
+| `Parqueaderos` | Anzahl der zur Immobilie gehörenden Parkplätze. |
+| `ID` | Eindeutige Kennung für das Immobilieninserat. |
+| `url` | Weblink zum Online-Immobilieninserat. |
+| `seller_id` | Eindeutige Kennung für den Verkäufer oder Makler. |
+| `whatsapp_number` | WhatsApp-Kontaktnummer für direkte Kommunikation. |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Utilize the dataset to analyze market trends in property prices and availability across different regions, aiding in strategic decision-making.
+### 1. Analyse des Immobilienmarkts
+Nutzen Sie den Datensatz, um Markttrends bei Immobilienpreisen und Verfügbarkeit in verschiedenen Regionen zu analysieren und so strategische Entscheidungen zu unterstützen.
 
-### 2. Investment Opportunities Identification
-Identify potential investment opportunities by examining property features and pricing dynamics to make informed investment choices.
+### 2. Identifizierung von Investitionsmöglichkeiten
+Identifizieren Sie potenzielle Investitionsmöglichkeiten, indem Sie Immobilienmerkmale und Preisdynamiken untersuchen, um fundierte Investitionsentscheidungen zu treffen.
 
-### 3. Competitor Analysis for Real Estate Agencies
-Conduct competitor analysis by evaluating property listings, seller types, and pricing strategies to refine business strategies.
+### 3. Wettbewerbsanalyse für Immobilienagenturen
+Führen Sie eine Wettbewerbsanalyse durch, indem Sie Immobilieninserate, Verkäufertypen und Preisstrategien bewerten, um Geschäftsstrategien zu optimieren.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -77,8 +77,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Lieferung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -87,14 +87,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Toctoc Properties Listings dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Get the full Toctoc Properties Listings dataset](https://brightdata.de/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschern, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[ready-to-use datasets](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
