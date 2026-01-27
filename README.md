@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 1.003 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Toctoc-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Toctoc-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Toctoc Properties Listings Dataset Sample** umfasst **1.003 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
